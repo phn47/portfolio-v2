@@ -239,8 +239,8 @@ If you have any questions or need help with the setup, feel free to reach out\!
 
 **Phạm Hoài Nam**
 
-  - Website: [https:](https:)
-  - GitHub: [PHN](https://github.com/phn47)
+  - Website: [portfolio](https://portfolio-phn.vercel.app/)
+  - GitHub: [phn47](https://github.com/phn47)
 
 -----
 

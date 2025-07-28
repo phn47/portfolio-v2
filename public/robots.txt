@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://phn47.vercel.app/sitemap.xml
+Sitemap: https://portfolio-phn.vercel.app/sitemap.xml

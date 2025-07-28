@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://phn47.vercel.app/#Home</loc>
+    <loc>https://portfolio-phn.vercel.app/#Home</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://phn47.vercel.app/#About</loc>
+    <loc>https://portfolio-phn.vercel.app/#About</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://phn47.vercel.app/#Portofolio</loc>
+    <loc>https://portfolio-phn.vercel.app/#Portofolio</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://phn47.vercel.app/#Contact</loc>
+    <loc>https://portfolio-phn.vercel.app/#Contact</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
